@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://contato.gersonbreno.sifu5.web.ufersa.dev.br/sitemap.xml
